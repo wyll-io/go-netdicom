@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"flag"
 
-	"github.com/grailbio/go-dicom/dicomio"
+	"github.com/wyll-io/go-dicom/dicomio"
 	"github.com/wyll-io/go-netdicom/dimse"
 	"github.com/wyll-io/go-netdicom/pdu"
 )

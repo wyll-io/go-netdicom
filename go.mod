@@ -3,8 +3,8 @@ module github.com/wyll-io/go-netdicom
 go 1.21.5
 
 require (
-	github.com/grailbio/go-dicom v0.0.0-20211105193521-b0e216a1c5cd
 	github.com/stretchr/testify v1.2.2
+	github.com/wyll-io/go-dicom v0.2.1-0.20240108142840-b4860442439f
 )
 
 require (

@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"net"
 
-	dicom "github.com/grailbio/go-dicom"
-	"github.com/grailbio/go-dicom/dicomio"
-	"github.com/grailbio/go-dicom/dicomlog"
+	dicom "github.com/wyll-io/go-dicom"
+	"github.com/wyll-io/go-dicom/dicomio"
+	"github.com/wyll-io/go-dicom/dicomlog"
 	"github.com/wyll-io/go-netdicom/dimse"
 	"github.com/wyll-io/go-netdicom/sopclass"
 )

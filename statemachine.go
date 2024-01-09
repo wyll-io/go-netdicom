@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/grailbio/go-dicom/dicomio"
-	"github.com/grailbio/go-dicom/dicomlog"
-	"github.com/grailbio/go-dicom/dicomuid"
+	"github.com/wyll-io/go-dicom/dicomio"
+	"github.com/wyll-io/go-dicom/dicomlog"
+	"github.com/wyll-io/go-dicom/dicomuid"
 	"github.com/wyll-io/go-netdicom/dimse"
 	"github.com/wyll-io/go-netdicom/pdu"
 )
